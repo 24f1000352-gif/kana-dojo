@@ -1905,18 +1905,18 @@
     "id": 318,
     "fact": "The word 'sukiyaki' refers both to the dish and to a style of cooking ingredients at the table.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 319,
     "fact": "The Japanese term 'shinrin-yoku' (森林浴) translates to \"forest bathing\" and emphasizes mindful time in nature.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 320,
     "fact": "'Mame' (豆) can mean both \"bean\" and \"diligent\"—so bean-related gifts sometimes imply good health and hard work.",
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]
